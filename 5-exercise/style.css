@@ -1,0 +1,15 @@
+#weather-overview {
+  display: flex;
+}
+.weather-item {
+  width: 100px;
+  text-align: center;
+  line-height: 22px;
+  font-size: 22px;
+  padding: 20px 0;
+  background-color: #ccc;
+  margin: 5px;
+}
+.weather-item span {
+  font-size: 11px;
+}
